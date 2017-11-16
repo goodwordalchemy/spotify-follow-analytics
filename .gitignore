@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.*.py.sw*
+environment.sh
+archive/*
+credentials/*
+notebooks
+data/*
+db_config.py
+db_shell.sh
+spotify-token.pickle
+*.pyc
+*.swp
+notebooks/
+data/
+old_git/
